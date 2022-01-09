@@ -1,0 +1,109 @@
+<!--/**
+* @author : A.D.Liyanage
+* @since : 0.1.0
+**/-->
+
+.course-container {
+    min-height: 100vh;
+    padding: 0 30px 100px;
+}
+
+.title-course {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.courses {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.course {
+    margin-top: 45px;
+    height: 550px;
+    padding: 10px;
+    -webkit-box-shadow: 0px 0px 7px 1px rgba(194, 194, 194, 1);
+    -moz-box-shadow: 0px 0px 7px 1px rgba(194, 194, 194, 1);
+    box-shadow: 0px 0px 7px 1px rgba(194, 194, 194, 1);
+}
+
+.course-name {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.container-1 {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.topic-1 {
+    background-color: black;
+    height: 100%;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px 0 0 5px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    font-size: 23px;
+}
+
+.topic-2 {
+    height: 100%;
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 0 5px 5px 0;
+    display: flex;
+    align-items: center;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.view-btn {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-view {
+    background-color: #42aaf5;
+    width: 60%;
+    height: 60px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn-view:hover {
+    background-color: #0a6db8;
+    color: #fff;
+}
+
+.seemorebtn-container {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.seemorebtn {
+    background-color: #42aaf5;
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.seemorebtn:hover {
+    background-color: #0a6db8;
+    color: #fff;
+}

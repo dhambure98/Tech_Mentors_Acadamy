@@ -1,0 +1,26 @@
+<!--/**
+* @author : A.D.Liyanage
+* @since : 0.1.0
+**/-->
+
+.article {
+    margin-top: 50px;
+    min-height: 100vh;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blog-topic {
+    font-size: 30px;
+}
+
+.sub-topic {
+    font-size: 20px;
+    width: 80%;
+}
+
+.article>p {
+    width: 80%;
+}
