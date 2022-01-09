@@ -34,7 +34,7 @@ _For more examples, please refer to the documentation
 **> Courses Owerview**
 ![Image of Case](assets/Images/ImageTwo.png)
 **> Programmes**
-![Image of Case](assets/Images/ImageThree.png)
+![Image of Case](assets/Images/imageThree.png)
 
 <!-- ROADMAP -->
 ## Roadmap
